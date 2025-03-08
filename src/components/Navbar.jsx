@@ -32,7 +32,7 @@ const Navbar = () => {
             <Link to="/" className="nav-link" onClick={() => setIsOpen(false)}>Home</Link>
           </li>
           <li className="nav-item">
-            <Link to="/traffic-system" className="nav-link" onClick={() => setIsOpen(false)}>Traffic System</Link>
+            <Link to="https://traffic-management-seven.vercel.app/" className="nav-link" onClick={() => setIsOpen(false)}>Traffic System</Link>
           </li>
           <li className="nav-item">
             <Link to="/profile" className="nav-link" onClick={() => setIsOpen(false)}>
