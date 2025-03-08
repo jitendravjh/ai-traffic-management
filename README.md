@@ -1,12 +1,32 @@
-# React + Vite
+# 🚦 AI Traffic Signal Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An **AI-powered smart traffic management system** that prioritizes emergency vehicles, optimizes traffic flow, and reduces congestion in metropolitan cities. The system detects emergency vehicles stuck in traffic and dynamically adjusts signals to ensure their swift passage.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Real-time Traffic Monitoring**: Uses AI to analyze live traffic density.
+- 🚑 **Emergency Vehicle Detection**: Identifies ambulances, fire trucks, and police vehicles stuck in traffic.
+- 🚦 **AI-Based Signal Control**: Adjusts traffic lights dynamically based on congestion levels.
+- 📊 **Traffic Data Analytics**: Provides insights into congestion patterns for urban planning.
+- 🌆 **Smart City Integration**: Compatible with future smart traffic management systems.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+
+- **Node.js** (v16 or later) installed on your system
+- **Git** installed
+- **Code editor** (VS Code recommended)
+
+---
+
+### 🛠️ Installation & Running Locally
+
+1️⃣ **Clone the Repository**
+```sh
+git clone https://github.com/jitendravjh/ai-traffic-management.git
+cd ai-traffic-management
